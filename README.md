@@ -4,7 +4,7 @@
 
 ## Download
 
-**[⬇️ Download Nexivo v1.0.0](https://nexivodock.co.uk/downloads/nexivo-1.0.0.exe)** - Windows 10/11 (x64)
+Coming soon! Check back here for the latest release.
 
 ## About
 
@@ -31,7 +31,7 @@ Your app will automatically stay current with new releases.
 
 ## Version History
 
-### v1.0.0 - Initial Release
+### v1.0.0 - Initial Release (Coming Soon)
 - Core launcher functionality with smart game detection
 - Steam, Roblox, Epic Games, and Rockstar Games integration
 - Custom launch sessions with configurable delays
@@ -44,7 +44,7 @@ Your app will automatically stay current with new releases.
 
 - Windows 10 or Windows 11
 - 64-bit processor
-- .NET Framework 4.8
+- .NET Framework 8
 
 ## License
 
