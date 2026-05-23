@@ -1,5 +1,5 @@
 {
   "version": "1.0.0",
-  "downloadUrl": "https://nexivodock.co.uk/downloads/nexivo-1.0.0.exe",
+  "downloadUrl": "https://github.com/ML-04/nexivo/releases/download/Versions/Nexivo-v1.0.0.zip",
   "notes": "Initial release with core launcher features, game detection, and auto-update support."
 }
