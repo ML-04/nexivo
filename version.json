@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "downloadUrl": "https://nexivodock.co.uk/downloads/nexivo-1.0.0.exe",
+  "notes": "Initial release with core launcher features, game detection, and auto-update support."
+}
